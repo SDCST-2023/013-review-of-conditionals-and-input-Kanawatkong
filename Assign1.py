@@ -92,6 +92,7 @@ x = 7
 y = 8
 if x < 8 or y < 8:
     print("at least one number is less than 8")
+#exit()
 """
 Q8.
 Modify line 91 to check if at least one number is less than 8
